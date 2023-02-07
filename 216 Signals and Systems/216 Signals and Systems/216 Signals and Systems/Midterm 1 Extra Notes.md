@@ -1,3 +1,12 @@
+---
+title: Midterm 1 Extra Notes
+updated: 2023-02-07 15:57:26Z
+created: 2023-02-07 09:57:19Z
+latitude: 43.65322600
+longitude: -79.38318430
+altitude: 0.0000
+---
+
 $$\text{Shuja Khwaja}$$
 ## Period 
 $T=\frac{2\pi}{\omega _{0}}$
